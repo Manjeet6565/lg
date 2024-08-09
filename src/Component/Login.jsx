@@ -35,7 +35,7 @@ function Login() {
         />
       </div>
 
-      <button type="submit">Login</button>
+      <button type="submit">Login ok</button>
     </form>
   );
 }
